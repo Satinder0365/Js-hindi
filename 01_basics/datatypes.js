@@ -15,6 +15,5 @@ console.log(age)
 //undefined=>value is not assined yet
 //symbol =>uniqe
 //object
-
 console.log(typeof null); //object
 console.log(typeof undefined)//undefined
