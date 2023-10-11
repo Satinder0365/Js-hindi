@@ -24,10 +24,35 @@ console.log(valueInNumber);*/
 
 //1 convert in true ,and 0 convert in 1
 
-let someNumber = 33
-let someNumberIs = String(someNumber)
-console.log(someNumberIs)
-console.log(typeof someNumberIs)
+// let someNumber = 33
+// let someNumberIs = String(someNumber)
+// console.log(someNumberIs)
+// console.log(typeof someNumberIs)
 
 //convert someNumber into String 
 
+// *****************Operations************//
+
+let value=33
+let negvalue= -value
+//console.log(negvalue)
+// console.log(2+2)
+// console.log(2**3)
+// console.log(2%3)
+// console.log(2/3)
+ 
+// let str1= "Hello"
+// let str2=" World"
+// let str3 =str1+str2
+// console.log(str3)
+
+let x = 3;
+const y = x++;
+
+console.log(`x:${x}, y:${y}`);
+// Expected output: "x:4, y:3"
+
+let a = 3;
+const b = ++a;
+
+console.log(`a:${a}, b:${b}`);
